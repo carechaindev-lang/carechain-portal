@@ -1,0 +1,14 @@
+# Anchor
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+# Next.js
+.next/
+out/
+node_modules/
+.env.local
